@@ -1,4 +1,4 @@
-apiVersion: v2
+apiVersion: v1
 name: ph-ee-superset-release
 description: PaymentHub EE Barebone Edition
 
